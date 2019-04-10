@@ -1,2 +1,2 @@
 print("beksar")
-
+print("ashym")
